@@ -3,8 +3,8 @@
 title: Sanara
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Hi, my name is Nick Adams. I’m a Product Designer and Photographer based in NY. I like being at the center of events, being free and enjoying every moment.
-baseurl: "" # The subpath of your site, e.g. /blog
-url: "https://sanara.netlify.app/" # The base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/saranatheme" # The subpath of your site, e.g. /blog
+url: "https://kimbumi.github.io" # The base hostname & protocol for your site, e.g. http://example.com
 
 
 #-------------------------------
